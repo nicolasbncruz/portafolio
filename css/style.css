@@ -81,7 +81,8 @@ h6,
 /*** Button ***/
 .btn {
     /*font-family: 'Times', sans-serif;*/
-    font-family: 'Oregano', cursive;
+    /* font-family: 'Ovo', serif; */
+    font-family: 'Quicksand', sans-serif;
     font-weight: 600;
     transition: .5s;
 }
@@ -128,7 +129,8 @@ h6,
 .navbar-dark .navbar-nav .nav-link {
     /*font-family: 'Nunito', sans-serif;
     font-family: 'Cutive Mono', monospace;*/
-    font-family: 'Oregano', cursive;
+    /* font-family: 'Oregano', cursive; */
+    font-family: 'Quicksand', sans-serif;
     position: relative;
     margin-left: 25px;
     padding: 35px 0;
@@ -502,7 +504,23 @@ h6,
 FUENTES DE LETRAS
 **/
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {    
+    /* font-family: 'Explora', cursive !important; */
+    /* font-family: 'Quicksand', sans-serif !important; */
+    font-family: 'Ovo', serif;
+}
+.exlora {
     font-family: 'Explora', cursive !important;
+}
+.monoton{
+    font-family: 'Monoton', cursive !important;
+    font-size: 1.2em !important;
+}
+/* .mulish{
+    font-family: 'Mulish', sans-serif !important;
+    font-size: 3.5em !important;
+} */
+.italianno{
+    font-family: 'Italianno', cursive !important;
 }
 .vermas {
     font-family: 'Explora', cursive !important;
